@@ -1,0 +1,13 @@
+
+ .cart{
+    margin-left: 90%;
+ }
+
+ .container-fluid{
+ 
+  position: fixed;
+  top: 1%;
+   height: 50px;
+   position:  absolute;
+   padding-bottom: 20px;
+ }

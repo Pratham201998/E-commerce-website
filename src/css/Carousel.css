@@ -1,0 +1,22 @@
+
+
+
+.carousel-inner{
+   
+    margin-top: 20px;
+}
+.carousel-item > img{
+    height: 300px;
+    margin-left: 14%;
+    width: 70%;
+    position: relative;
+}
+.carousel-item > h3{
+    position: absolute;
+    top: 90%;
+    margin-left: 45%;
+    font-style: italic;
+    
+    
+}
+
